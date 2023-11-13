@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+#calculator{
+    background-color:rgb(75,79,80);
+    border: 1px solid black;
+    border-radius: 30px;
+}
